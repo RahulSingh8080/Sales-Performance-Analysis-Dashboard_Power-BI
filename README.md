@@ -27,4 +27,20 @@ This repository showcases an **interactive sales performance dashboard** built u
 4. **Sales Trends:** Seasonal analysis highlighted peak months for sales and quantity.  
 5. **Top Products:** Streamlined inventory by focusing on high-revenue products.
 
+🤝 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request to improve this project.
+
+📬 Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: thakurrahulsinghjdm123@gmail.com
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rahul-singh-583a3619b/)
+🌟 Acknowledgments
+Special thanks to the data visualization community for inspiration and resources.
+
+🏷️ Tags
+#PowerBI #DataVisualization #SalesAnalysis #Dashboard #DataAnalytics
+
+
+
 
